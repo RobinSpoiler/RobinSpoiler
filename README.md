@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**RobinSpoiler/RobinSpoiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2><alt="AboutMe" width="80"> About me </h2>
 
-Here are some ideas to get you started:
+<div >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li><b>👤 Name: </b>  Karla Sánchez Olivares</li>
+  <li><b>😄 Pronouns:</b>  She/They/Them </li>
+  <li><b>📍 Location:</b> Puebla, Mexico 🇲🇽</li>
+  <li><b>💼 I'm a </b>Student @ Tec de Monterrey and Intern @ Ellucian </li>
+  <li><b>📣 Languages:</b> English & Spanish</li>
+</ul>
+
+<p>I'm Karla Sanchez (<i>aka Karls</i>) a Computer Science student @ Tecnológico de Monterrey. 
+</p>
+
+</div>
+
+
+<h2><img alt="computer" width="80"> I'm currently ...</h2>
+
+- 🔭 Interning at Ellucian and working on the creation of an Algoritmia Club at my university.
+- 🌱 learning Docker & Computer Networks
+
+<h2>Random</h2>
+
+- 🔬 I really enjoy Hackathons so ping me if you want to team up :))
+<!-- - 📝 Working with me? Read the [Juan Pa's User Manual](https://link) -->
