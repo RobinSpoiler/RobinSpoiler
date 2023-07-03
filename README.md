@@ -18,7 +18,7 @@
 </div>
 
 
-<h2>< alt="I'm currently" width="80"> I'm currently ...</h2>
+<h2 alt="I'm currently" width="80"> I'm currently ...</h2>
 
 - 🔭 Interning at Ellucian and working on the creation of an Algoritmia Club at my university.
 - 🌱 learning Docker & Computer Networks
