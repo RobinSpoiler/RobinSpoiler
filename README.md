@@ -20,9 +20,7 @@
 - 🔭 Interning at Ellucian and working on the creation of an Algorithmia Club at my university.
 - 🌱 learning Docker & Computer Networks
 
-<h2>Random</h2>
-
-##My Github Stats
+## My Github Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinSpoiler)](https://github.com/RobinSpoiler/github-readme-stats)
 
 - 🔬 I enjoy Hackathons so ping me if you want to team up :))
