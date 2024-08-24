@@ -25,5 +25,7 @@
 
 <h2>Random</h2>
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinSpoiler)](https://github.com/RobinSpoiler/github-readme-stats)
+
 - 🔬 I really enjoy Hackathons so ping me if you want to team up :))
 <!-- - 📝 Working with me? Read the [Juan Pa's User Manual](https://link) -->
