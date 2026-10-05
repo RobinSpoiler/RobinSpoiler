@@ -10,14 +10,14 @@
   - 📣 Languages: English & Spanish
   - 📍 Location:</b> Puebla, Mexico 🇲🇽
 
-<p>I'm Karla Sanchez (<i>aka Karls</i>) a recent Computer Science graduate from Tecnológico de Monterrey. </p>
+<p>I'm Karla Sanchez software engineer with 2 years of experience working on providing networking infrastructure to large scale companies such as OpenAI, Nvidia and Oracle. </p>
 
 </div>
 
 
 <h2 alt="I'm currently" width="80"> I'm currently ...</h2>
 
-- 🔭 Interning at Ellucian and working on the creation of an Algorithmia Club at my university.
+- 🔭 Ex-Microsoft, Ex-Ellucian.
 - 🌱 learning Docker & Computer Networks
 
 ## My Github Stats
